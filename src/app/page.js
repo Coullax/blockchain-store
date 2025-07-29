@@ -227,7 +227,7 @@ export default function Web3GamblingLanding() {
           </div>
           <div>
             <span className="text-3xl font-bold bg-gradient-to-r from-cyan-400 via-purple-400 to-pink-400 bg-clip-text text-transparent">
-              Blockchain Store
+              Blockchain.Store
             </span>
             <div className="text-xs text-cyan-400 font-mono">v3.0 PROTOCOL</div>
           </div>
@@ -320,8 +320,8 @@ export default function Web3GamblingLanding() {
             <div className="absolute inset-0 bg-gradient-to-br from-green-500/5 to-emerald-500/5 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
             <CardContent className="p-6 text-center relative z-10">
               <Lock className="w-10 h-10 text-green-400 mx-auto mb-3" />
-              <div className="text-3xl font-bold text-white mb-2 font-mono">99.9%</div>
-              <div className="text-green-400 text-sm font-medium">SECURITY UPTIME</div>
+              <div className="text-3xl font-bold text-white mb-2 font-mono">100%</div>
+              <div className="text-green-400 text-sm font-medium">DECENTRALIZED SECURITY</div>
             </CardContent>
           </Card>
           <Card className="bg-gradient-to-br from-pink-500/10 to-red-500/10 border-2 border-pink-500/30 backdrop-blur-xl shadow-lg shadow-pink-500/20 relative overflow-hidden group">
@@ -537,7 +537,7 @@ export default function Web3GamblingLanding() {
         <div className="container mx-auto px-6 text-center">
           <div className="mb-6">
             <span className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-purple-400 bg-clip-text text-transparent">
-              Blockchain Store
+              Blockchain.Store
             </span>
             <div className="text-xs text-cyan-400 font-mono mt-1">Decentralized Gaming Infrastructure</div>
           </div>
