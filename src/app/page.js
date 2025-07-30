@@ -345,7 +345,7 @@ export default function Web3GamblingLanding() {
 
                 <div
   className="group relative overflow-hidden rounded-xl bg-black/60 border-2 backdrop-blur-xl transition-all duration-500 hover:border-teal-400/60 hover:shadow-2xl hover:shadow-teal-500/25 cursor-pointer border-gray-700/30 opacity-60 mb-8"
-  onClick={() => window.open('https://next-chess-game-tau.vercel.app/', '_blank')}
+  onClick={() => window.open('https://next-chess-game-chi.vercel.app', '_blank')}
 >
   {/* Holographic Effect */}
   <div
